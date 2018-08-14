@@ -41,3 +41,8 @@ After you created the package, some additional steps should be done:
 
 Please write some documentation for your library. In addition, you might genrate
 some API documentation based on your docstrings.
+
+```bash
+	make apidoc
+	make docs
+```
