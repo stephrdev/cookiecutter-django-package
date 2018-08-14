@@ -1,0 +1,7 @@
+{
+  "github_user": "johndoe",
+  "author_name": "John Doe",
+  "author_email": "john@invalid.domain",
+  "package_name": "django-something",
+  "module_name": "something"
+}
