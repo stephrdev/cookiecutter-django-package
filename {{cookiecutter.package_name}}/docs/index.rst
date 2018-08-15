@@ -14,7 +14,7 @@ Api documentation:
 .. toctree::
    :maxdepth: 2
 
-   api
+   api/modules
 
 
 Indices and tables
